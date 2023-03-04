@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, yo soy Facundo Demarco</h1>
-<h3 align="center">Docente y desarrollador web</h3>
+<h3 align="center">Docente & Desarrollador Web</h3>
 
 - 🔭 Actualmente estoy trabajando en un proyecto para un director de cine [ProjectJoan](https://github.com/FacundoDemarco/proyectojoan)
 
