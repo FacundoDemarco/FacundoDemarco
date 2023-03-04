@@ -3,7 +3,7 @@
 
 - 🔭 Actualmente estoy trabajando en un proyecto para un director de cine [ProjectJoan](https://github.com/FacundoDemarco/proyectojoan)
 
-- 🌱 Actualmente estoy aprendiendo **React JS**
+- 🌱 Actualmente estoy aprendiendo **React JS y PHP**
 
 - 👨‍💻 Todos mis proyectos estan disponibles en [https://github.com/FacundoDemarco?tab=repositories](https://github.com/FacundoDemarco?tab=repositories)
 
